@@ -3,7 +3,7 @@
 ## How to use
 Clone the repo using
 
-> git clone git@github.com:0xAyush/scrapingMiniProject.git
+`git clone git@github.com:0xAyush/scrapingMiniProject.git`
 
 Run it using
 
