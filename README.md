@@ -12,4 +12,6 @@ npm install
 npm start
 ```
 
-The script will fetch the price from a default url then prompt you to enter another url
+The script will fetch the price from a default URL then prompt you to enter another URL.
+
+Press CRTL+C to exit.
